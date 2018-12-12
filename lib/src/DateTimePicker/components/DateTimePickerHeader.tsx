@@ -25,8 +25,8 @@ export const styles = (theme: Theme) =>
     ampmSelection: {
       top: 9,
       position: 'relative',
-      marginLeft: 10,
-      marginRight: -10,
+      marginRight: 10,
+      marginLeft: -10,
     },
     ampmLabel: {
       fontSize: 18,
